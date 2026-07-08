@@ -27,9 +27,6 @@ A simple and responsive **Metric/Imperial Unit Converter** built using **HTML, C
 └── README.md
 ```
 
-## 📸 Preview
-
-> Add a screenshot of your project here.
 
 ##  Getting Started
 
